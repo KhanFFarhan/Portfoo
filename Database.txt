@@ -1,0 +1,5 @@
+EMAIL || SUBJECT || MESSAGE
+___________________________
+
+Affankhan098@gmail.com || testing || Hello this is a test message
+fsfsf@shds.com || testing || interesting message
